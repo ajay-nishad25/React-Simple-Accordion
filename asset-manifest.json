@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Simple-Accordion/static/css/main.4b3d03bd.css",
+    "main.js": "/React-Simple-Accordion/static/js/main.02d2b43d.js",
+    "index.html": "/React-Simple-Accordion/index.html",
+    "main.4b3d03bd.css.map": "/React-Simple-Accordion/static/css/main.4b3d03bd.css.map",
+    "main.02d2b43d.js.map": "/React-Simple-Accordion/static/js/main.02d2b43d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b3d03bd.css",
+    "static/js/main.02d2b43d.js"
+  ]
+}
