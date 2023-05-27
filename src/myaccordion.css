@@ -1,0 +1,50 @@
+.question-holder{
+    margin-bottom: 12px;
+}
+
+.question-div {
+    display: flex;
+    justify-content: space-between;
+    height: 50px;
+}
+
+.sign {
+    display: inline-block;
+    font-weight: bolder;
+    width: 20px;
+    font-size: 25px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: end;
+    cursor: pointer;
+}
+
+.question {
+    margin-left: 10px;
+    display: inline-block;
+    color: rgba(20, 15, 15, 0.832);
+}
+
+
+
+.answer{
+    margin-top: 10px;
+    margin-right: 10px;
+    color: rgba(43, 46, 46, 0.759);
+}
+
+.answer {
+    visibility: hidden;
+    animation: fade-in 1s ease-out forwards;
+  }
+  
+  @keyframes fade-in {
+    from {
+      visibility: hidden;
+      opacity: 0;
+    }
+    to {
+      visibility: visible;
+      opacity: 1;
+    }
+  }

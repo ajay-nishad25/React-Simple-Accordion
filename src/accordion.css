@@ -1,0 +1,14 @@
+.parent-div{
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(6, 179, 198);
+}
+
+.btn{
+    margin-right: 10px;
+    font-weight: bold;
+}
+
+.answer-p{
+    margin: 10px 5px 10px 5px;
+}
